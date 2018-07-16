@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "<Platform> Architecture"
+contentDir = "docs/"
+theme = "ananke"
+
+[params]
+  github = "adfinis-sygroup"
+

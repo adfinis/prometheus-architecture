@@ -1,3 +1,11 @@
+---
+title: "About Arc42"
+type: "page"
+menu:
+  toc:
+    weight: 100
+---
+
 **About arc42**
 
 arc42, the Template for documentation of software and system

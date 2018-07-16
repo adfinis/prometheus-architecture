@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+    {{ .Content }}
+    <div class="items-center">
+      {{ if .Site.Menus.toc }}
+        <ul class="list pl0 mr3">
+          {{ range .Site.Menus.toc }}
+          <li class="list tl f5 f4-ns fw4 pr3 pl5">
+            <a class="f3 no-underline hover-black" href="{{ .URL }}" title="{{ .Name }} page">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}

@@ -1,15 +1,19 @@
-System Scope and Context {#section-system-scope-and-context}
-========================
+---
+title: "03 System Scope and Context"
+type: "page"
+menu:
+  toc:
+    weight: 03
+---
+# System Scope and Context {#section-system-scope-and-context}
 
-Business Context {#_business_context}
-----------------
+## Business Context {#_business_context}
 
 **&lt;Diagram or Table&gt;**
 
 **&lt;optionally: Explanation of external domain interfaces&gt;**
 
-Technical Context {#_technical_context}
------------------
+## Technical Context {#_technical_context}
 
 **&lt;Diagram or Table&gt;**
 

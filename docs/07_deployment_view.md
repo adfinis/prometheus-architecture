@@ -1,8 +1,13 @@
-Deployment View {#section-deployment-view}
-===============
+---
+title: "07 Deployment View"
+type: "page"
+menu:
+  toc:
+    weight: 07
+---
+# Deployment View {#section-deployment-view}
 
-Infrastructure Level 1 {#_infrastructure_level_1}
-----------------------
+## Infrastructure Level 1 {#_infrastructure_level_1}
 
 ***&lt;Overview Diagram&gt;***
 
@@ -18,8 +23,7 @@ Mapping of Building Blocks to Infrastructure
 
 :   *&lt;description of the mapping&gt;*
 
-Infrastructure Level 2 {#_infrastructure_level_2}
-----------------------
+## Infrastructure Level 2 {#_infrastructure_level_2}
 
 ### *&lt;Infrastructure Element 1&gt;* {#__emphasis_infrastructure_element_1_emphasis}
 

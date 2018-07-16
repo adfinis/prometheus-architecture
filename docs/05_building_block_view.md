@@ -1,8 +1,13 @@
-Building Block View {#section-building-block-view}
-===================
+---
+title: "05 Building Block View"
+type: "page"
+menu:
+  toc:
+    weight: 05
+---
+# Building Block View {#section-building-block-view}
 
-Whitebox Overall System {#_whitebox_overall_system}
------------------------
+## Whitebox Overall System {#_whitebox_overall_system}
 
 ***&lt;Overview Diagram&gt;***
 
@@ -46,8 +51,7 @@ Important Interfaces
 
 ### &lt;Name interface m&gt; {#__name_interface_m}
 
-Level 2 {#_level_2}
--------
+## Level 2 {#_level_2}
 
 ### White Box *&lt;building block 1&gt;* {#_white_box_emphasis_building_block_1_emphasis}
 
@@ -63,8 +67,7 @@ Level 2 {#_level_2}
 
 *&lt;white box template&gt;*
 
-Level 3 {#_level_3}
--------
+## Level 3 {#_level_3}
 
 ### White Box &lt;\_building block x.1\_&gt; {#_white_box_building_block_x_1}
 

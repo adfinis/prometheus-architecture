@@ -1,8 +1,13 @@
-Runtime View {#section-runtime-view}
-============
+---
+title: "06 Runtime View"
+type: "page"
+menu:
+  toc:
+    weight: 06
+---
+# Runtime View {#section-runtime-view}
 
-&lt;Runtime Scenario 1&gt; {#__runtime_scenario_1}
---------------------------
+## &lt;Runtime Scenario 1&gt; {#__runtime_scenario_1}
 
 -   *&lt;insert runtime diagram or textual description of the
     scenario&gt;*
@@ -10,11 +15,9 @@ Runtime View {#section-runtime-view}
 -   *&lt;insert description of the notable aspects of the interactions
     between the building block instances depicted in this diagram.&gt;*
 
-&lt;Runtime Scenario 2&gt; {#__runtime_scenario_2}
---------------------------
+## &lt;Runtime Scenario 2&gt; {#__runtime_scenario_2}
 
 … {#_}
 -
 
-&lt;Runtime Scenario n&gt; {#__runtime_scenario_n}
---------------------------
+## &lt;Runtime Scenario n&gt; {#__runtime_scenario_n}
