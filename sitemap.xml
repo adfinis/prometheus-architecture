@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/01_introduction_and_goals/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/02_architecture_constraints/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/03_system_scope_and_context/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/04_solution_strategy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/05_building_block_view/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/06_runtime_view/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/07_deployment_view/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/08_concepts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/09_design_decisions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/10_quality_scenarios/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/11_technical_risks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/12_glossary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/about-arc42/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adfinis-sygroup.github.io/prometheus-architecture/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
