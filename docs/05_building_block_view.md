@@ -5,6 +5,7 @@ menu:
   toc:
     weight: 05
 ---
+<!--alex disable black white -->
 # Building Block View {#section-building-block-view}
 
 ## Whitebox Overall System {#_whitebox_overall_system}
@@ -80,3 +81,4 @@ Important Interfaces
 ### White Box &lt;\_building block y.1\_&gt; {#_white_box_building_block_y_1}
 
 *&lt;white box template&gt;*
+<!--alex enable black white -->

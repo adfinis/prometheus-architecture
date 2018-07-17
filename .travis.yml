@@ -4,8 +4,9 @@ services:
 - docker
 branches:
   except:
-    - gh-pages
+  - gh-pages
 script:
+- docker run --rm -ti -v $(pwd):/src hairmare/alex
 - docker run --rm -ti -v $(pwd):/src jojomi/hugo hugo --baseURL https://adfinis-sygroup.github.io/prometheus-architecture/
 deploy:
 - provider: pages
