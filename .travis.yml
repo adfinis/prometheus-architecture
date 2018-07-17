@@ -1,0 +1,17 @@
+---
+language: minimal
+services:
+- docker
+branches:
+  except:
+    - gh-pages
+script:
+- docker run --rm -ti -v $(pwd):/src jojomi/hugo hugo --baseURL https://adfinis-sygroup.github.io/prometheus-architecture/
+deploy:
+- provider: pages
+  skip_cleanup: true
+  local_dir: public/
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  target_branch: gh-pages
+  on:
+    branch: master
